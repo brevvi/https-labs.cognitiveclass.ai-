@@ -1,1 +1,1 @@
-# https-labs.cognitiveclass.ai-
+# labs.cognitiveclass.ai-
